@@ -1,0 +1,3 @@
+configuration:
+  foo:
+    type: String
