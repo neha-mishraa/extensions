@@ -12,7 +12,6 @@ configuration:
   targetPath:
     type: String
     validate:
-      notNull: true
       notEmpty: true
   properties:
     type: String
