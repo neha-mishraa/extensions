@@ -1,5 +1,9 @@
 description: 'A step to upload an Artifact to JFrog Artifactory.'
 
+platforms:
+  - os: Linux
+  - os: Windows
+
 configuration:
   autoPublishBuildInfo:
     type: Boolean
